@@ -1,0 +1,9 @@
+@import "reset.css";
+@import "layout.css";
+@import url('https://fonts.googleapis.com/css?family=Fahkwang');
+@font-face {
+  font-family: "PragmaticaExtBookReg";
+  src: url("../font/PragmaticaExtBookReg.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
